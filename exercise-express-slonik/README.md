@@ -90,4 +90,4 @@
 32. Devuelve el nombre de los directores, título, fecha y `mpaa_rating` de las películas cuyo `mpaa_rating` sea `PG-13`
 33. Devuelve el quinto mejor director canadiense que haya obtenido la mejor media de `imdb_rating`
 34. Devuelve la media de las 20 mejores películas de ficción contemporánea entre 1990 y el 2000 según `rotten_tomatoes_rating` e `imdb_rating`
-35. Devuelve los nombre de los directores y las fechas solo en años basadas en juegos que hayan recaudado menos de `500000$`
+35. Devuelve los nombre de los directores y las fechas solo en años de las películas basadas en juegos que hayan recaudado menos de `500000$`
